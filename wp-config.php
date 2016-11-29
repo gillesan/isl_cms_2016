@@ -20,6 +20,7 @@
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
 define('DB_NAME', 'isl_cms_2016');
+define('FS_METHOD', 'direct');
 
 /** Utilisateur de la base de données MySQL. */
 define('DB_USER', 'root');
